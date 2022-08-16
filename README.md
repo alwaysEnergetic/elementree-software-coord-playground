@@ -21,6 +21,8 @@ Frontend task : Using the above API endpoint and plot the coordinates on a map
     -GraphQL, 
     -React-testing-library for test.
     <br/>
+    
+    client\src\config --> Please add your Mapbox Api Token
 
 <b>RUNNING THE BACKEND SERVICE</b>
 1. `npm install`
