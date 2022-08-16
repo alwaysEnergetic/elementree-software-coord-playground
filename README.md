@@ -46,7 +46,12 @@ TO run test `npm run test`
 TO run test `npm  test`
 
 
+Backend GraphQl Screenshot: 
+<img src="https://github.com/alwaysEnergetic/elementree-software-coord-playground/blob/master/client/public/demo-pics.png" />
+<br/>
 
+Frontend App Screenshot: 
+<img src="https://github.com/alwaysEnergetic/elementree-software-coord-playground/blob/master/client/public/demo-apps.png" />
 
 
 
